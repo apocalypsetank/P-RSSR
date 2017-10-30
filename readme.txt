@@ -9,6 +9,14 @@ P_RSSR_function.m: Train the model of P-RSSR.
 P_RSSR_predict.m: Test the performance of P-RSSR.
 SSC_SSR_function.m: Train the model of SSC-SSR.
 SSC_SSR_predict.m: Test the performance of SSC-SSR.
+pca_self.m: Main function of PCA
+CLPP_function.m: Main function of CLPP
+harmonic_function.m: Main function of GFHF
+LapRLS_function.m: Main function of LapRLS
+lda_function.m: Main function of LDA
+SRLSC_function.m: Main function of S-RLSC
+SSDA_function.m: Main function of SSDA
+SSDR_function.m: Main function of SSDR
 
 
 
